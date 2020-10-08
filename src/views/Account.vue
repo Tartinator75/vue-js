@@ -12,7 +12,7 @@ import Title from '@/components/Title.vue'
 export default {
   name: 'Account',
   components: {
-    Title,
+    Title, 
   },
  
 
